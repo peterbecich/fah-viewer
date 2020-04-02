@@ -1,6 +1,8 @@
 Folding@home 3D Viewer
 =========
 
+![CI checks](https://github.com/FoldingAtHome/fah-viewer/workflows/CI%20checks/badge.svg) [![Build Status](https://travis-ci.com/FoldingAtHome/fah-viewer.svg?branch=master)](https://travis-ci.com/FoldingAtHome/fah-viewer)
+
 The Folding@home viewer allows you to visualize protein folding simulations
 and monitor the status of the simulation work units as they run on your
 computer.  Installing and running the viewer is not necessary to run
